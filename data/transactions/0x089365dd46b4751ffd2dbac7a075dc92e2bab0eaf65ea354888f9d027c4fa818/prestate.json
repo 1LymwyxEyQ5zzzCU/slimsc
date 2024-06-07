@@ -1,0 +1,15 @@
+{
+    "0x080a2def232eee37f49f45d68a81e8eea14c2e05": {
+        "balance": "0xb6cad3763223fff",
+        "nonce": 154
+    },
+    "0xade906194c923b28f03f48bc5d9d987aae21ffab": {
+        "balance": "0x0",
+        "code": "0x608060405200fea2646970667358221220ce0262866739a37cf1cd29dac1b2a12461528c6c611209fe312e41dd5883bf2664736f6c634300080c0033",
+        "nonce": 1
+    },
+    "0xbd3afb0bb76683ecb4225f9dbc91f998713c3b01": {
+        "balance": "0xb1a176bba989841",
+        "nonce": 23685
+    }
+}

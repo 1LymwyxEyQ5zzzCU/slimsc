@@ -1,0 +1,19 @@
+# SLIMSC
+
+The repository contains the artifacts of SLIMSC for evaluation.
+
+## Pre-requisites
+
+Please install OpenEnclave SDK following the instructions [here](https://github.com/openenclave/openenclave/tree/master/docs/GettingStartedDocs).
+
+## Running the example
+
+The `bin` folder contains the necessary binaries to run the example. The `data` folder contains the contracts and transactions used in the paper.
+
+Try any transaction by running the following command:
+
+`bash run.sh <tx_hash>`
+
+For example:
+
+`bash run.sh 0x2fa57c298b4b2d5f8b19e02c7a8143e2677914175f20d9600a06a51cb3c3a4d8`

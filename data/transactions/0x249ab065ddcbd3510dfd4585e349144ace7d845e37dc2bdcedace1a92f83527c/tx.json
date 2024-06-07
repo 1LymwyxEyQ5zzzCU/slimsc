@@ -1,0 +1,23 @@
+{
+    "blockHash": "0x9ef59d01fa8f05353d67653b268bc4f248ffb4a5a5a559115bb7f6febb33eab5",
+    "blockNumber": 18498368,
+    "from": "0xCfcFffe581E1174504FBF2422F504aC36cB05f29",
+    "gas": 52740,
+    "gasPrice": 24473906538,
+    "hash": "0x249ab065ddcbd3510dfd4585e349144ace7d845e37dc2bdcedace1a92f83527c",
+    "input": "0xa9059cbb00000000000000000000000075e89d5979e4f6fba9f97c104c2f0afb3f1dcb88000000000000000000000000000000000000000001c8d2460235073ad8ee0000",
+    "nonce": 35,
+    "to": "0xeCbEE2fAE67709F718426DDC3bF770B26B95eD20",
+    "transactionIndex": 117,
+    "value": 0,
+    "type": 0,
+    "chainId": 1,
+    "v": 38,
+    "r": "0xc51bbbc38e40c3e114b837839081460296a6273d1de19ea3fa75e533a0e71b0c",
+    "s": "0x152b8b02345e8960c4dd412927de0811b9c411d9cb638599379c649341121765",
+    "coinbase": "0xd11D7D2cb0aFF72A61Df37fD016EE1bd9F180633",
+    "timestamp": 1699097231,
+    "block_gas_limit": 30000000,
+    "chain_id": 1,
+    "block_base_fee": 17700990076
+}

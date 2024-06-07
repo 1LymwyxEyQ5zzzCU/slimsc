@@ -1,0 +1,13 @@
+{
+    "0x61e0c0d010f890daf6a365f754c87c6ca3dbd06e": {
+        "balance": "0x0"
+    },
+    "0x8badd8b59ddaf9a12c4910ca1b2e8ea750a71594": {
+        "balance": "0x2a5fc05dc6c014cb7c",
+        "nonce": 26925
+    },
+    "0xdafea492d9c6733ae3d56b7ed1adb60692c98bc5": {
+        "balance": "0x7e876eb6d44aaf59",
+        "nonce": 479405
+    }
+}
